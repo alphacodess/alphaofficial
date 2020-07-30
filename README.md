@@ -1,4 +1,4 @@
-<p align="center">I am a simple guy.</p>
+<p align="center">Alpha Official</p>
 <p align="center">
   <a href="https://alphacodes.tk" target="_blank">Resmi Web Sitesi</a>
   |
