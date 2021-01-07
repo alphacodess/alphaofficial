@@ -10,7 +10,7 @@
 
 #Very soon 
 
-- 📢 **My website is now open source. Check it out now!** [my personal website](https://alphadev.xyz/)
+- 📢 **My website is now open source. Check it out now!** [My Personal Website](https://alphadev.xyz/)
 
 <br><br>
 <h1 align="center"> Contact Me </h1>
