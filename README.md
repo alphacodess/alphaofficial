@@ -1,22 +1,10 @@
-<p align="center">Alpha Official</p>
-<p align="center">
-  <a href="https://alphacodes.tk" target="_blank">Resmi Web Sitesi</a>
-  |
-  <a href="https://instagram.com/alphaofficial" target="_blank">İnstagram</a>
-  |
-  <a href="https://discord.gg/magnet" target="_blank">Discord</a>
-</p>
+<h2>Welcome to my GitHub profile <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" height="20px"></h2>
 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AlphaOfficial0&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaOfficial0&theme=dark&hide_border=true&layout=compact">
 
-<p align="center">Magnet TM</p>
-<p align="center">
-  <a href="https://magnetbot.tk" target="_blank">Magnet Web</a>
-  |
-  <a href="https://top.gg/bot/692787967806144582" target="_blank">Dbl</a>
-  |
-  <a href="https://discord.com/invite/SCMqEzs" target="_blank">Discord - Destek</a>
-    |
-  <a href="Güncellenicektir." target="_blank">Magnet Bot List</a>
-      |
-  <a href="Güncellenicektir." target="_blank">Magnet Bot List - Discord</a>
-</p>
+**Who am I ?**
+Hello, I am Alpha Official. I am dealing with the software field in my spare time. I enjoy sharing my projects with open source code. I really love sharing my code with other people, you know what that means?
+
+#Very soon 
