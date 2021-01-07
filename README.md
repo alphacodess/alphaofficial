@@ -13,9 +13,7 @@ Hello, I am Alpha Official. I am dealing with the software field in my spare tim
 <h1 align="center"> Contact Me </h1>
 
 <p align="center">
-  <a href="https://umutgulmez.github.io/" target="_blank">Website</a>
+  <a href="https://alphadev.github.io/" target="_blank">Website</a>
   |
-  <a href="https://discord.com/users/274615370214670336" target="_blank">Discord, "Umut.py#2112"</a>
-  |
-  <a href="https://steamcommunity.com/id/klyne312/" target="_blank">Steam</a>
+  <a href="https://discord.com/users/481425230636646419" target="_blank">Discord, 'TheWolf✨#0599"</a>
 </p>
